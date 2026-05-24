@@ -29,7 +29,7 @@ img {
   padding: 4rem 1.5rem;
   display: grid;
   place-items: center;
-  background: linear-gradient(135deg, #0d3b7b 0%, #1b5aa4 100%);
+  background: linear-gradient(135deg, #0e3a2f 0%, #78faac 100%);
   color: white;
 }
 
@@ -94,7 +94,7 @@ p {
 }
 
 .section-dark {
-  background: #0f1f3b;
+  background: #0e3a2f;
   color: white;
 }
 
@@ -182,7 +182,7 @@ blockquote footer {
 .footer {
   padding: 2rem 1.5rem;
   text-align: center;
-  background: #081523;
+  background: #0e3a2f;
   color: #a2b3d1;
 }
 
@@ -191,3 +191,4 @@ blockquote footer {
     grid-template-columns: 1fr;
   }
 }
+
